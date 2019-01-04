@@ -15,6 +15,6 @@ switch (x) {
     break;
     
   default:
-    alert('Неизвестное значение: ' + x)
+    alert('Будете страдать: ' + x 'лет')
 }
 </script>
